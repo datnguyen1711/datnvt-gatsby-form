@@ -22,7 +22,7 @@ import {
   MdOutlineEmail,
 } from 'react-icons/md';
 import { BsGithub, BsDiscord, BsPerson } from 'react-icons/bs';
-import '../pages/style.css';
+import '../style/style.css';
 
 
 const IndexPage = () => {
