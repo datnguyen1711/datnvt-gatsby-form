@@ -1,14 +1,12 @@
 import React from 'react';
 import {
   Box,
-  Heading,
   Text,
   IconButton,
   Button,
   VStack,
   HStack,
   Wrap,
-  WrapItem,
   FormControl,
   FormLabel,
   Input,
