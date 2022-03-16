@@ -1,0 +1,26 @@
+.container {
+  width: 100%;
+  background-color: #6752dd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-main {
+  padding: 15px;
+}
+.box-title {
+  font-size: 37px;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.box-form {
+  background-color: #fff;
+  border-radius: 10px;
+}
+.box-form-main {
+  color: #0b0e3f;
+  margin: 30px;
+}
+.box-info {
+  padding: 25px 0;
+}
