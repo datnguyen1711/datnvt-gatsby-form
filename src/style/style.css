@@ -37,4 +37,10 @@
     flex-direction: column;
     gap: 20px 0;
   }
+  .box-contact {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
 }
