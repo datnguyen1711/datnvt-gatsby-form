@@ -24,3 +24,17 @@
 .box-info {
   padding: 25px 0;
 }
+.box-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 0 40px;
+}
+
+@media screen and (max-width: 767px) {
+  .box-content {
+    flex-direction: column;
+    gap: 20px 0;
+  }
+}
