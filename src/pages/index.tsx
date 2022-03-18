@@ -62,6 +62,7 @@ const IndexPage = () => {
 
   const handleInputName = (event: any) => {
     setName(event.target.value);
+    console.log(event);
   };
   const handleInputMail = (event: any) => {
     setMail(event.target.value);
